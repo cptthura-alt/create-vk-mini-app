@@ -27,7 +27,7 @@
     "@vkontakte/vk-miniapps-deploy": "^0.1.6",
     "@vkontakte/vk-tunnel": "^0.2.4",
     "eruda": "^3.0.1",
-    "esbuild": "~0.20.0",
+    "esbuild": "~0.27.1",
     "eslint": "^8.55.0",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
